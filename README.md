@@ -7,6 +7,7 @@ This is a collection of various projects and topics that I find interesting and 
 ## AngelsGift DirectX11 undergrad Engine
 An engine that focuses on basic game systems, such as an update manager, a draw manager, time events, collision processing, and a particle system. 
 worked on this during my 3rd year as an undergrad.
+https://github.com/StarArkAngel/StarArkAngel.wiki
 
 ## Azul dx11 Grad Engine
 An engine that focuses on graphics and rendering systems. The systems included are: custom DLL Math library, custom DLL data structures library, various shaders, graphics objects for each shader, skinned animation, and real-time dynamic lighting.
