@@ -1,6 +1,6 @@
 # AngelHernandezPortolio
 
-This is a collection of the various projects and topics that I find interesting and have experience with
+This is a collection of the various projects and topics that I find interesting and have experience with.
 
 # Projetcs
 
