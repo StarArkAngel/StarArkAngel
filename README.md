@@ -13,6 +13,7 @@ worked on this during my 3rd year as an undergrad.
 An engine that focuses on graphics and rendering systems. The systems included are: custom DLL Math library, custom DLL data structures library, various shaders, graphics objects for each shader, skinned animation, and real-time dynamic lighting.
 This Engine also has a converter that converts various files into Google Protocol Buffer files for the engine. These files include PNG and TGA for textures, and GLB for meshes, skeletons, and animations. The converter serializes them into Google protocol files, which the engine deserializes.
 I worked on this for a year during my grad year at DePaul University. 
+[Link To Project Wiki](https://github.com/StarArkAngel/StarArkAngel/wiki/AngelsGrace-Azul-DirectX-11-Engine)
 
 ## Angels Galaxy Fusion Engine
 An in-progress engine that combines the two engines into one engine that supports all features included in both.
