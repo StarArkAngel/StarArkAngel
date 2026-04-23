@@ -8,12 +8,21 @@ Ongoing project due to the size of each.
 ## AngelsGift DirectX11 undergrad Engine
 An engine that focuses on basic game systems, such as an update manager, a draw manager, time events, collision processing, and a particle system. 
 worked on this during my 3rd year as an undergrad.
+
+<img width="953" height="591" alt="Screenshot 2026-04-16 220158" src="https://github.com/user-attachments/assets/725c4f67-9015-4769-98f1-c73f036f4c66" />
+<img width="962" height="626" alt="Screenshot 2026-04-16 215901" src="https://github.com/user-attachments/assets/a3020a84-e2d3-48ab-ae7a-4dd018b350f1" />
+
+
 [Link to Project Wiki](https://github.com/StarArkAngel/StarArkAngel/wiki/AngelsGfit-Engine)
 
 ## Azul dx11 Grad Engine
 An engine that focuses on graphics and rendering systems. The systems included are: custom DLL Math library, custom DLL data structures library, various shaders, graphics objects for each shader, skinned animation, and real-time dynamic lighting.
 This Engine also has a converter that converts various files into Google Protocol Buffer files for the engine. These files include PNG and TGA for textures, and GLB for meshes, skeletons, and animations. The converter serializes them into Google protocol files, which the engine deserializes.
 I worked on this for a year during my grad year at DePaul University. 
+
+<img width="1188" height="894" alt="Screenshot 2026-04-16 225108" src="https://github.com/user-attachments/assets/58b3de5e-3b05-4aae-adf1-52e1c59a21df" />
+<img width="2384" height="1786" alt="streets2" src="https://github.com/user-attachments/assets/31ce8fa6-bd83-477c-a32a-953e63d7e647" />
+
 [Link To Project Wiki](https://github.com/StarArkAngel/StarArkAngel/wiki/AngelsGrace-DirectX-11-Engine)
 
 ## Angels Galaxy Fusion Engine
