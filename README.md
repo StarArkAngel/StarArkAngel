@@ -37,6 +37,8 @@ I plan to add more scripting and features to improve the gameplay.
 An unreal story-driven turn-based RPG game. I worked with 2 other people to create this over the course of a year.
 There are a few features that are still missing, but it tells a complete story. Updates may arrive if I find time to work on them.
 
+<img width="1177" height="868" alt="Screenshot 2025-06-10 135013" src="https://github.com/user-attachments/assets/bf305587-e403-44da-a69c-415f401f9aec" />
+
 ## All Imagining
 An art installation game that I worked on for the summer. Me and 3 others made this project to show the cost of using AI. It was meant to be an art installation. 
 
@@ -44,9 +46,13 @@ An art installation game that I worked on for the summer. Me and 3 others made t
 A recreation of the game Centipede by Artari, made in 3 months using a school-provided DX11 engine.
 I am in progress on moving this game to my AngelsGalaxy engine when it is done.
 
+<img width="474" height="537" alt="Screenshot 2026-04-16 223737" src="https://github.com/user-attachments/assets/d9bb3baf-0a1a-42f6-8ca3-16bc02b1c89d" />
+
 ## Space Invaders
 A recreation of the game Space Invaders by Taito in 1978. made in 3 months using a school-provided graphics package.
 I am in progress on moving this game to my AngelsGalaxy engine when it is done.
+
+<img width="664" height="790" alt="Screenshot 2026-04-16 221853" src="https://github.com/user-attachments/assets/2984ca5e-c4d3-4848-8b1e-9bc710dfd249" />
 
 ## Shepherds Ranch
 A ranch simulation game where I worked on pathfinding and navigation grids.
