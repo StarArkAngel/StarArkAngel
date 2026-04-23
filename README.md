@@ -22,7 +22,7 @@ I worked on this for a year during my grad year at DePaul University.
 <img width="1188" height="894" alt="Screenshot 2026-04-16 225108" src="https://github.com/user-attachments/assets/58b3de5e-3b05-4aae-adf1-52e1c59a21df" />
 <img width="2384" height="1786" alt="streets2" src="https://github.com/user-attachments/assets/31ce8fa6-bd83-477c-a32a-953e63d7e647" />
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/P7DyIC4LS5k)
+[![Video Title](https://img.youtube.com/vi/P7DyIC4LS5k/0.jpg)](https://youtu.be/P7DyIC4LS5k)
 
 [Link To Project Wiki](https://github.com/StarArkAngel/StarArkAngel/wiki/AngelsGrace-DirectX-11-Engine)
 
@@ -40,7 +40,7 @@ There are a few features that are still missing, but it tells a complete story. 
 
 <img width="1177" height="868" alt="Screenshot 2025-06-10 135013" src="https://github.com/user-attachments/assets/bf305587-e403-44da-a69c-415f401f9aec" />
 
-[![My Mechanical Friends Trailer](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=nFQg_4xPP7g)
+[![My Mechanical Friends Trailer](https://img.youtube.com/vi/watch?v=nFQg_4xPP7g/0.jpg)](https://www.youtube.com/watch?v=nFQg_4xPP7g)
 
 ## All Imagining
 An art installation game that I worked on for the summer. Me and 3 others made this project to show the cost of using AI. It was meant to be an art installation. 
@@ -63,7 +63,7 @@ I am in progress on moving this game to my AngelsGalaxy engine when it is done.
 ## Angry Birds
 A recreation of the game Angry Birds. Made in 3 months using a school-provided graphics package and Box2D physics library.
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/Cx89gs149HE)
+[![Video Title](https://img.youtube.com/vi/Cx89gs149HE/0.jpg)](https://youtu.be/Cx89gs149HE)
 
 ## Shepherds Ranch
 A ranch simulation game where I worked on pathfinding and navigation grids.
