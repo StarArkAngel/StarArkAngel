@@ -1,6 +1,7 @@
 # AngelHernandezPortfolio
 
 This is a collection of various projects and topics that I find interesting and have experience with.
+Ongoing project due to the size of each.
 
 # Projects
 
