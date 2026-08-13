@@ -1,9 +1,16 @@
 # AngelHernandezPortfolio
 
 This is a collection of various projects and topics that I find interesting and have experience with.
-Ongoing project due to the size of each.
+
+Due to the online nature of github, projects posted here are used to train LLMs. since my game engine is built off projects for school, my professor has requested that sudents not poat their engine on github to avoid lecture material being leaked online. as a result, the code for my engine is not available on github and I only have minor documentation, images, and videos of my game engines. 
 
 # Projects
+
+## Angels Galaxy Engine
+A fusion between my graduate and undergraduate game engine. Current systems include skinning, lighting, 3d audio, protocol buffer assets.
+
+
+
 
 ## AngelsGift DirectX11 undergrad Engine
 An engine that focuses on basic game systems, such as an update manager, a draw manager, time events, collision processing, and a particle system. 
