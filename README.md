@@ -29,7 +29,7 @@ Link to Itch.io page: https://jumpymcshot.itch.io/mmf
 My Mechanical Friends Trailer:
 
 [![My Mechanical Friends Trailer](https://img.youtube.com/vi/nFQg_4xPP7g/0.jpg)](https://www.youtube.com/watch?v=nFQg_4xPP7g)
-<img width="1177" height="868" alt="Screenshot 2025-06-10 135013" src="https://github.com/user-attachments/assets/bf305587-e403-44da-a69c-415f401f9aec" />
+<img width="500" height="350" alt="Screenshot 2025-06-10 135013" src="https://github.com/user-attachments/assets/bf305587-e403-44da-a69c-415f401f9aec" />
 
 ## All Imagining
 An art installation game that I worked on for the summer. Me and 3 others made this project to show the cost of using AI. 
@@ -49,6 +49,9 @@ Current systems include skinning, lighting, particles, 3d audio, 2D sprites, and
 
 [![Particles](https://img.youtube.com/vi/w8hPSIbEbSI/0.jpg)](https://youtu.be/w8hPSIbEbSI)
 
+<img width="500" height="600" alt="Screenshot 2026-08-28 120807" src="https://github.com/user-attachments/assets/fd6639bf-2e2a-43f8-87db-f83ede2a524e" />
+<img width="500" height="400" alt="Screenshot 2026-08-25 212026" src="https://github.com/user-attachments/assets/6936380a-d0fb-44b4-bce1-314349b2d469" />
+
 ## All of these projects are constructed within my engine using C++ or C # in one Visual Studio solution as multiple projects.
 They are individually listed as each project has its own story and was developed independently.
 The engine was created after most of these projects, but was refined to support them.
@@ -58,8 +61,8 @@ An engine that focuses on basic game engine systems, such as an update manager, 
 Worked on this during my 3rd year as an undergrad at DePaul University.
 Created a simple tank shooter to demonstrate the rendering, collisions, and particles. 
 
-<img width="953" height="591" alt="Screenshot 2026-04-16 220158" src="https://github.com/user-attachments/assets/725c4f67-9015-4769-98f1-c73f036f4c66" />
-<img width="962" height="626" alt="Screenshot 2026-04-16 215901" src="https://github.com/user-attachments/assets/a3020a84-e2d3-48ab-ae7a-4dd018b350f1" />
+<img width="500" height="350" alt="Screenshot 2026-04-16 220158" src="https://github.com/user-attachments/assets/725c4f67-9015-4769-98f1-c73f036f4c66" />
+<img width="500" height="350" alt="Screenshot 2026-04-16 215901" src="https://github.com/user-attachments/assets/a3020a84-e2d3-48ab-ae7a-4dd018b350f1" />
 
 [Link to Project Wiki](https://github.com/StarArkAngel/StarArkAngel/wiki/AngelsGfit-Engine)
 
@@ -68,8 +71,8 @@ An engine that focuses on graphics and rendering systems. The systems included a
 This Engine also has a converter that converts various files into Google Protocol Buffer files for the engine. These files include PNG and TGA for textures, and GLB for meshes, skeletons, and animations. The converter serializes them into Google Protocol Buffer files, which the engine deserializes.
 I worked on this for a year during my grad year at DePaul University. 
 
-<img width="1188" height="894" alt="Screenshot 2026-04-16 225108" src="https://github.com/user-attachments/assets/58b3de5e-3b05-4aae-adf1-52e1c59a21df" />
-<img width="2384" height="1786" alt="streets2" src="https://github.com/user-attachments/assets/31ce8fa6-bd83-477c-a32a-953e63d7e647" />
+<img width="500" height="350" alt="Screenshot 2026-04-16 225108" src="https://github.com/user-attachments/assets/58b3de5e-3b05-4aae-adf1-52e1c59a21df" />
+<img width="500" height="350" alt="streets2" src="https://github.com/user-attachments/assets/31ce8fa6-bd83-477c-a32a-953e63d7e647" />
 
 [![Skinning](https://img.youtube.com/vi/P7DyIC4LS5k/0.jpg)](https://youtu.be/P7DyIC4LS5k)
 
@@ -81,14 +84,14 @@ A recreation of the game Centipede by Atari, made in 3 months using a school-pro
 I am in the process of moving this game to my AngelsGalaxy engine.
 The game is fully functional with endless waves, two-player support, and high score recording.
 
-<img width="474" height="537" alt="Screenshot 2026-04-16 223737" src="https://github.com/user-attachments/assets/d9bb3baf-0a1a-42f6-8ca3-16bc02b1c89d" />
+<img width="500" height="560" alt="Screenshot 2026-04-16 223737" src="https://github.com/user-attachments/assets/d9bb3baf-0a1a-42f6-8ca3-16bc02b1c89d" />
 
 ## Space Invaders
 A recreation of the arcade game Space Invaders by Taito in 1978. Made in 3 months using a school-provided graphics engine and C#.
 I am in the process of moving this game to my AngelsGalaxy engine.
 This game is fully functional with all the enemies and high score recording.
 
-<img width="664" height="790" alt="Screenshot 2026-04-16 221853" src="https://github.com/user-attachments/assets/2984ca5e-c4d3-4848-8b1e-9bc710dfd249" />
+<img width="500" height="700" alt="Screenshot 2026-04-16 221853" src="https://github.com/user-attachments/assets/2984ca5e-c4d3-4848-8b1e-9bc710dfd249" />
 
 ## Angry Birds
 A recreation of the game Angry Birds. Made in 3 months using a school-provided graphics package and Box2D physics library.
