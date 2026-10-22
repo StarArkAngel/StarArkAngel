@@ -46,6 +46,7 @@ Oracle demonstration video:
 My engine is a fusion between my graduate and undergraduate game engines. 
 Current systems include skinning, lighting, particles, 3d audio, 2D sprites, and serialized assets.
 
+about 40% complete and has reached ~153804 lines of real code across 1998 files(.c .cpp .h .hlsl).
 
 [![Particles](https://img.youtube.com/vi/w8hPSIbEbSI/0.jpg)](https://youtu.be/w8hPSIbEbSI)
 
